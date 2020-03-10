@@ -27,6 +27,8 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Experience and the first torture!`](https://www.peerlyst.com/posts/oscp-experience-and-the-first-torture-nitesh-shilpkar-osce-oscp-oswp-ceh-crest) - **Nitesh Shilpkar**
 
+[https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/]
+
 
 
 ### ~ Helpful VMs for Practice ~
