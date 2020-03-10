@@ -27,8 +27,6 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Experience and the first torture!`](https://www.peerlyst.com/posts/oscp-experience-and-the-first-torture-nitesh-shilpkar-osce-oscp-oswp-ceh-crest) - **Nitesh Shilpkar**
 
-[`A detail guide on OSCP preparation from newbie to OSCP`] (https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/) - **Autor**
-
 [`https://forum.hackthebox.eu/discussion/1730/a-script-kiddie-s-guide-to-passing-oscp-on-your-first-attempt]
 
 
